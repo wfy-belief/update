@@ -1,27 +1,27 @@
 
 ## [昨日更新](/2020/7)
 
-<p style="text-align: left;">
-          <b>7.9日更新信息(下方是超链接)</b>
- </p>
- <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
-  <a style="text-decoration: none;color: orange " target="_blank"
-                    href="https://wfyblog.cn/python/#/python/main?id=%e9%ab%98%e7%ba%a7%e6%8e%92%e5%ba%8f" rel="noopener">
-                    1、python小技巧更新 高级排序部分 。（点击即可跳转）
-  </a>                
- </p>
- <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
-    <a style="text-decoration: none;color: orange " target="_blank"
-                    href="https://wfyblog.cn/notes/#/neo4j/0" rel="noopener">
-                    2、neo4j 简单操作与示例  部分。（点击即可跳转）
-    </a>                
- </p>
- <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
-    <a style="text-decoration: none;color: orange " target="_blank"
-                    href="https://wfyblog.cn/python/#/urllib/main" rel="noopener">
-                    3、数据获取能力 urllib 使用（待完善）。（点击即可跳转）
-    </a>                
- </p>
+ <p style="text-align: left;">
+            <b>7.10日更新信息(下方是超链接)</b>
+ </p>
+ <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
+  <a style="text-decoration: none;color: orange " target="_blank"
+                    href="https://wfyblog.cn/python/#/python/main?id=%e9%9b%86%e5%90%88%e4%ba%a4%e5%b9%b6%e8%a1%a5" rel="noopener">
+                    1、python 集合交并补。（点击即可跳转）
+  </a>
+ </p>
+ <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
+    <a style="text-decoration: none;color: orange " target="_blank"
+                    href="" rel="noopener">
+                    2、优化部分结构，修复导航栏错误。
+    </a>
+ </p>
+ <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
+    <a style="text-decoration: none;color: orange " target="_blank"
+                    href="" rel="noopener">
+                    3、d3.js学习总结。（未总结完成）
+    </a>
+ </p>
 
 ## 首页
 
