@@ -10,7 +10,7 @@
 2. 于远程仓库建立连接
 
    ```
-   git remote add origin https://github.com/wfy-belief/python.git
+   git remote add origin https://github.com/wfy-belief/update.git
    ```
 
 3. 拉取远程主分支
