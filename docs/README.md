@@ -1,28 +1,35 @@
 
 ## [昨日更新](/2020/7)
 
+## 19日
+
  <p style="text-align: left;">
-            <b>7.10日更新信息(下方是超链接)</b>
+            <b>7.19日更新信息(下方是超链接)</b>
  </p>
  <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
   <a style="text-decoration: none;color: orange " target="_blank"
-                    href="https://wfyblog.cn/python/#/python/main?id=%e9%9b%86%e5%90%88%e4%ba%a4%e5%b9%b6%e8%a1%a5" rel="noopener">
-                    1、python 集合交并补。（点击即可跳转）
+                    href="https://wfyblog.cn/python/#/python/main?id=%e5%88%97%e8%a1%a8%e6%8e%a8%e5%af%bc%e5%bc%8f" rel="noopener">
+                    1、python 列表推导式。（点击即可跳转）
+  </a>
+ </p>
+ <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
+  <a style="text-decoration: none;color: orange " target="_blank"
+                    href="https://wfyblog.cn/python/#/python/main?id=%e5%ad%97%e5%85%b8%e9%9b%86%e5%90%88%e5%b5%8c%e5%a5%97%e6%8e%a8%e5%af%bc%e5%bc%8f" rel="noopener">
+                    2、python 字典集合嵌套推导式。（点击即可跳转）
   </a>
  </p>
  <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
     <a style="text-decoration: none;color: orange " target="_blank"
                     href="" rel="noopener">
-                    2、优化部分结构，修复导航栏错误。
+                    3、优化python文档目录结构。
     </a>
  </p>
  <p style="text-align: left;">&nbsp; &nbsp; &nbsp;
     <a style="text-decoration: none;color: orange " target="_blank"
-                    href="" rel="noopener">
-                    3、d3.js学习总结。（未总结完成）
+                    href="https://wfyblog.cn/python/#/requests/main" rel="noopener">
+                    4、增加requests库内容总结和拉勾网实例。
     </a>
  </p>
-
 ## 首页
 
 E-mail: 1335680234@qq.com
@@ -50,7 +57,7 @@ E-mail: 1335680234@qq.com
 2. 于远程仓库建立连接
 
    ```
-   git remote add origin https://github.com/wfy-belief/python.git
+   git remote add origin https://github.com/wfy-belief/update.git
    ```
 
 3. 拉取远程主分支
